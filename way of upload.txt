@@ -1,0 +1,8 @@
+* change the directory and point
+* git clone :: link of git
+* change directory
+* git status
+* git add .
+* git commit -m "Any message"
+* git push
+done.
